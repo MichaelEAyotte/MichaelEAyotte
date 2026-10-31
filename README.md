@@ -1,12 +1,12 @@
 # Michael E. Ayotte
 
-I work in Level 2 IT Support and am building toward AI Product Engineering and Software Development. I�m pursuing a B.S. in Software Development at Bellevue University and run Ayotte Technologies.
+I work in Level 2 IT Support and am building toward AI Product Engineering and Software Development. I’m pursuing a B.S. in Software Development at Bellevue University and run Ayotte Technologies.
 
 My projects connect practical support problems with software: retrieving reliable answers from technical documentation, controlling AI-assisted ticket actions, preserving historical data, and making publishing workflows easier to validate and recover.
 
 ## Selected engineering work
 
-| Project | What I�m building | Current evidence |
+| Project | What I’m building | Current evidence |
 |---|---|---|
 | [UFSL](https://github.com/Magic-Mike-XXS/ufsl-engineering-showcase) | A fantasy sports website with canonical season data, migration tooling and gated publishing | Source and recent CI results inspected; public site responds |
 | [A.T.L.A.S. AI Agent](https://github.com/Magic-Mike-XXS/atlas-ai-agent-showcase) | A local documentation and troubleshooting assistant using Open WebUI, Ollama and an Obsidian knowledge base | LAN chat and approved-document retrieval have recorded acceptance passes; broader validation continues |
@@ -33,4 +33,4 @@ My [Ayotte Industries portfolio](https://www.ayotteindustries.com/) presents sel
 
 Production source and operational records remain private. These case studies explain the engineering decisions without exposing client records or infrastructure access details.
 
-[GitHub](https://github.com/Magic-Mike-XXS) � [Ayotte Technologies](https://ayotte.tech/) � [Portfolio](https://www.ayotteindustries.com/)
+[GitHub](https://github.com/Magic-Mike-XXS) · [Ayotte Technologies](https://ayotte.tech/) · [Portfolio](https://www.ayotteindustries.com/)

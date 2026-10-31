@@ -4,12 +4,12 @@ The root README is the finished profile draft. This special repository is privat
 
 ## Proposed six pins
 
-1. ufsl-engineering-showcase � mature production data-engineering context with safe executable examples.
-2. atlas-ai-agent-showcase � AI relevance with explicit retrieval and acceptance limits.
-3. article-workflow-lab � production-derived software functions and reproducible tests.
-4. ayotte-ai-service-desk-showcase � bounded AI workflow prototype; live approval gaps remain.
-5. self-hosted-infrastructure-showcase � operational engineering without sensitive topology.
-6. printpulse3d-showcase � early code prototype, clearly labeled; replace this slot when a stronger software project is ready.
+1. ufsl-engineering-showcase — mature production data-engineering context with safe executable examples.
+2. atlas-ai-agent-showcase — AI relevance with explicit retrieval and acceptance limits.
+3. article-workflow-lab — production-derived software functions and reproducible tests.
+4. ayotte-ai-service-desk-showcase — bounded AI workflow prototype; live approval gaps remain.
+5. self-hosted-infrastructure-showcase — operational engineering without sensitive topology.
+6. printpulse3d-showcase — early code prototype, clearly labeled; replace this slot when a stronger software project is ready.
 
 Keep client repositories and existing production repositories private. No current full-history production repository is approved for public release. PrintPulse3D is a conditional future pin. Its clean showcase contains only the new synthetic prototype; the original starter and its noncommercial license remain private.
 
