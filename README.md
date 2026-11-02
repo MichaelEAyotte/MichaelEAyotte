@@ -1,6 +1,6 @@
 # Michael E. Ayotte
 
-I work in Level 2 IT Support and am pursuing a B.S. in Software Development at Bellevue University. I’m building toward AI Product Engineering and Software Development through practical work in web applications, data validation, local AI and automation.
+I currently work in Level 2 IT Support and am pursuing a B.S. in Software Development at Bellevue University. I’m building toward AI Product Engineering and Software Development through practical work in web applications, data validation, local AI and automation.
 
 ## Selected engineering work
 
@@ -10,7 +10,7 @@ I work in Level 2 IT Support and am pursuing a B.S. in Software Development at B
 | [A.T.L.A.S.](https://github.com/MichaelEAyotte/atlas-ai-agent-showcase) | A local AI integration case study using Open WebUI, Ollama and an Obsidian knowledge base. Recorded chat/retrieval acceptance results are separate from a new synthetic evaluation example. |
 | [Article Workflow Lab](https://github.com/MichaelEAyotte/article-workflow-lab) | Selected JavaScript utilities from my business website’s article tooling, with focused tests and documented limitations. |
 
-Production repositories and operational records stay private. These selected repositories contain limited source extracts or sanitized case studies; they do not reproduce the full systems. Standalone examples and their tests were prepared with AI assistance and are identified in each repository.
+Production repositories and operational records stay private as these selected repositories contain limited source extracts or sanitized case studies; they do not reproduce the full systems. Standalone examples and their tests were prepared with AI assistance and are identified in each repository.
 
 ## Engineering focus
 
@@ -25,8 +25,8 @@ I focus on traceable results: checking retrieved passages, preserving source dat
 
 I founded **[Ayotte Industries](https://www.ayotteindustries.com/)** for software development, artificial intelligence, web applications, software automation, and cloud applications and services.
 
-I also founded **[Ayotte Technologies](https://ayotte.tech/)** for hardware and physical technology, IT infrastructure, devices and technical services.
+I also founded **[Ayotte Technologies](https://ayotte.tech/)** for a hardware and physical technology focus, IT infrastructure, devices and technical services.
 
-These are distinct businesses. This personal GitHub account brings together my engineering work and learning across both areas; it does not represent either business as a division of the other.
+This personal GitHub account brings together my engineering work and learning across both areas.
 
 [LinkedIn](https://www.linkedin.com/in/michaeleayotte/) · [GitHub](https://github.com/MichaelEAyotte)
