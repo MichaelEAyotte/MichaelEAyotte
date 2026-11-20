@@ -1,9 +1,39 @@
-# Profile scope and publication record
+# Repository strategy
 
-This is the special profile repository for `MichaelEAyotte`. Michael E. Ayotte authorized its publication and the three selected engineering showcases after final release checks. Git history, including earlier account names and private-draft wording, is preserved.
+Established November 19, 2026.
 
-The selected pins, in order, are `ufsl-engineering-showcase`, `atlas-ai-agent-showcase` and `article-workflow-lab`. Each showcase explains its implementation status, source provenance, tests and license. The service desk, infrastructure, PrintPulse and website-demonstration repositories remain private.
+## Ownership
 
-The personal profile represents Michael's work across two distinct businesses: Ayotte Industries (software, AI, web, automation and cloud) and Ayotte Technologies (hardware, infrastructure, devices and technical services). Neither is a division of the other. Ayotte Industries remains the primary Company field.
+[AyotteIndustries](https://github.com/AyotteIndustries) is the authoritative development organization. Maintain one repository per independent application, including `atlas`, `aides`, `ufsl` and `printpulse3d`. Existing client and business websites keep their original repositories and history.
 
-The completed ownership structure keeps eight repositories in the personal account and seven private business repositories in `AyotteIndustries`. Publishing this profile and the three selected showcases does not publish business source code or deploy any production website.
+[MichaelEAyotte](https://github.com/MichaelEAyotte) is the professional engineering portfolio. The profile and A.T.L.A.S. demonstration remain active. Archived showcases preserve useful evidence without becoming parallel application roadmaps.
+
+The private website demonstration remains an explicit exception because an existing Azure deployment and business-site link depend on it. Review its deployment ownership before considering a separately approved transfer or retirement.
+
+## Delivery sequence
+
+**Development → Testing → Validation → Approval → Production → Portfolio Documentation**
+
+1. **Development:** use a short-lived branch or isolated checkout in the authoritative repository. Define a bounded outcome and acceptance criteria.
+2. **Testing:** run meaningful checks with synthetic fixtures and isolated dependencies. Keep development/testing separate from production.
+3. **Validation:** inspect behavior, relevant integrations, security boundaries and documentation. Record evidence, known limits, exact revision and rollback steps.
+4. **Approval:** obtain owner approval for the specific production release. Check workflow triggers before opening a pull request; some existing pull-request workflows deploy previews.
+5. **Production:** release only the approved, tested revision through the existing application-specific process. Verify the result and preserve rollback information.
+6. **Portfolio documentation:** update the original repository first; publish only sanitized, verified descriptions or bounded examples after checking rights and confidentiality.
+
+This is a documented operating policy. It does not claim that new branch rules, required reviews or deployment-environment enforcement have been installed. Existing deployment settings remain unchanged.
+
+## Documentation and maintenance
+
+- Keep architecture, local setup, tests, implementation status and release notes with their application.
+- Distinguish planned, experimental, development and production behavior.
+- Keep secrets, customer data and internal infrastructure details out of public material.
+- Preserve prior licensing permissions and third-party attribution.
+- Retain archived public URLs where websites use them as case studies; archiving is not deletion or a privacy change.
+- Do not add showcase repositories or duplicate application code. Create a new repository only for a genuine independent development requirement.
+- Keep A.T.L.A.S. IT-support responsibilities separate from AIDES software-engineering responsibilities.
+- Before importing existing A.T.L.A.S. or related service-desk material, establish source ownership, provenance and the safe migration boundary. Documentation-only repositories are not completed implementations.
+
+## Historical records
+
+Earlier review notes and commits record the October–November 2026 publication work. Their test results, licensing decisions and approved scope remain historical evidence. This policy supersedes their pin selection and ongoing repository-maintenance recommendations.
